@@ -1,4 +1,3 @@
-Here's your **fixed README file** with proper formatting and your **correct GitHub link**:  
 
 ---
 
@@ -10,7 +9,9 @@ This project simplifies model fine-tuning with dataset upload, hyperparameter tu
 🔗 **Prototype:** [GitHub Link](https://github.com/UJJWALTHAKUR28/GEMMA-AI-TUNE-LAB)  
 
 ---
+📷 Project Screenshot
 
+---
 ## **Features**  
 ✅ **No-Code UI** - Upload datasets, configure parameters, and fine-tune models seamlessly.  
 ✅ **Dataset Management** - Supports **CSV, JSONL, and text** file formats.  
