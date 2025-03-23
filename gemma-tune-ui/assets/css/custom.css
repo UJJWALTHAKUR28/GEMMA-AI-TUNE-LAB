@@ -1,0 +1,22 @@
+/* Google AI-like Theme */
+body {
+    font-family: "Inter", sans-serif;
+    background-color: #f4f4f9;
+}
+
+h1, h2, h3 {
+    color: #1967D2;
+}
+
+.stButton > button {
+    background-color: #1a73e8;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.stSidebar {
+    background-color: #202124;
+    color: white;
+}

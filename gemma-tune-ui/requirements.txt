@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+sentencepiece
+datasets
+matplotlib
+optuna
